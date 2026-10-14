@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.egg-info/
+build/
+dist/
+uv.lock
+# never commit design files or renders
+*.SchDoc
+*.PcbDoc
+*.PrjPcb
+*.SchLib
+*.PcbLib
+*.png
+*.svg
+.idea/
+.vscode/
